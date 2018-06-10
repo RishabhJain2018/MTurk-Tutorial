@@ -2,3 +2,4 @@ env/
 amt-ui.pdf
 MTURK_BP.pdf
 config.py
+*.pyc
