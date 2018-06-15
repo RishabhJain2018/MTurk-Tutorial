@@ -1,1 +1,1 @@
-This is the tutorial app for Amazon Mechanical Turk
+This is the tutorial app for Amazon Mechanical Turk.
